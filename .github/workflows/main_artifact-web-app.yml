@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'artifact-web-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6FEDDEA5D4D64B68B18C1C1FD4EDDCE5 }}
+          publish-profile: ${{ secrets.SHUBHI_TOKEN_GITHUB }}
